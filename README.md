@@ -1,4 +1,4 @@
-# native_hadoop_library
+# native-hadoop-library
 关于Hadoop2.7.3在Mac OS下运行时提示的警告：
 
 *WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable*
